@@ -1,0 +1,8 @@
+s3fs
+numpy
+xarray
+sounderpy
+herbie
+matplotlib
+cartopy
+metpy
